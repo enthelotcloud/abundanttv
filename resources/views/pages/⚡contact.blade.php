@@ -95,7 +95,7 @@ new #[Layout('layouts.guest')] class extends Component
         <div class="absolute -left-40 top-0 -z-10 h-[500px] w-[500px] rounded-full bg-red-800/5 blur-[120px] dark:bg-red-900/10"></div>
         <div class="absolute -right-40 top-20 -z-10 h-[500px] w-[500px] rounded-full bg-cyan-500/10 blur-[120px] dark:bg-cyan-500/5"></div>
 
-        <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:py-24 lg:px-8">
+        <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:py-8 lg:px-8">
             {{-- Gold Badge --}}
             <span class="inline-flex items-center gap-2 rounded-full bg-amber-500/10 px-3 py-1 text-xs font-bold uppercase tracking-wider text-amber-600 ring-1 ring-amber-500/20 dark:text-amber-400">
                 <span class="h-1.5 w-1.5 rounded-full bg-amber-500"></span>

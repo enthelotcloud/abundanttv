@@ -26,5 +26,7 @@ Route::livewire('about', 'pages::about')->name('about');
 Route::livewire('faqs', 'pages::faqs')->name('faqs');
 Route::livewire('contact', 'pages::contact')->name('contact');
 Route::livewire('schedule', 'pages::schedule')->name('schedule');
+Route::livewire('terms', 'pages::terms')->name('terms');
+Route::livewire('privacy', 'pages::privacy')->name('privacy');
 
 require __DIR__.'/settings.php';
