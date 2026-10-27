@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'tv' => [
+        'stream_url' => env('TV_STREAM_URL', 'https://gcctv.streamkeys.xyz/'),
+    ],
+
 ];
