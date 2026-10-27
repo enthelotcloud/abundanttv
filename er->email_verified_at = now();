@@ -1,0 +1,14 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#8755
+    [34mid[39m: [35m1[39m,
+    [34mname[39m: [32m"[39m[32mIsaac Njoroge Njunge[39m[32m"[39m,
+    [34memail[39m: [32m"[39m[32menthelotcloud@gmail.com[39m[32m"[39m,
+    [34mrole[39m: [32m"[39m[32mviewer[39m[32m"[39m,
+    [34memail_verified_at[39m: [36mnull[39m,
+    #[33mpassword[39m: [32m"[39m\$[32m2y[39m\$[32m12[39m\$[32msEY0YzTJyM/zrXDbYxbiCe/FbJt7aHh27ZcdbYxYJ7dTB831x/sMO[39m[32m"[39m,
+    #[33mremember_token[39m: [36mnull[39m,
+    [34mcreated_at[39m: [32m"[39m[32m2026-10-27 05:15:48[39m[32m"[39m,
+    [34mupdated_at[39m: [32m"[39m[32m2026-10-27 05:15:48[39m[32m"[39m,
+    #[33mtwo_factor_secret[39m: [36mnull[39m,
+    #[33mtwo_factor_recovery_codes[39m: [36mnull[39m,
+    [34mtwo_factor_confirmed_at[39m: [36mnull[39m,
+  }
