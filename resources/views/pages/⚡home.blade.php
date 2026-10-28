@@ -133,7 +133,7 @@ new #[Layout('layouts.guest')] class extends Component
 
 ?>
 
-<div class="mx-auto max-w-[1500px] px-4 py-6 lg:px-8 lg:py-10">
+<div class="mx-auto max-w-7xl px-4 py-6 lg:px-8 lg:py-10">
 
     @php
         $fmt = fn ($t) => \Illuminate\Support\Carbon::parse($t)->format('g:i A');
